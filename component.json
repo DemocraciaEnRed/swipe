@@ -1,12 +1,8 @@
 {
   "name": "swipe",
   "version": "2.1.0",
-  "main": ["./swipe.js"],
+  "main": "swipe.js",
   "author": "Brad Birdsall",
   "license": "MIT",
-  "ignore": [
-    "**/*.html",
-    "**/*.css",
-    "Gruntfile.js"
-  ]
+  "scripts": ["swipe.js"]
 }
